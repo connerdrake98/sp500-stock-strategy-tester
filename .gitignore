@@ -1,5 +1,6 @@
 sp500-all-hist-data/
-sp500-10yr-hist-data/
+sp500-10yr-hist-data/*
+!sp500-10yr-hist-data/.gitkeep
 .idea/
 .venv/
 1-ticker-strategy-tester.py
