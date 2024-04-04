@@ -1,0 +1,12 @@
+sp500-all-hist-data/
+sp500-10yr-hist-data/
+.idea/
+.venv/
+1-ticker-strategy-tester.py
+aapl.py
+sp500_create_all_hist_data_csvs.py
+test-msft-10-years.py
+test-MSFT-10-yr
+test-MSFT-10-yr.csv
+yfinance_cache.sqlite
+sp500-info.csv
